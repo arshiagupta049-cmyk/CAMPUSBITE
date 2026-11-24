@@ -1,0 +1,1702 @@
+[
+{
+"name": "Coffee",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 60,
+"pro": 2,
+"carbs": 8,
+"fat": 2,
+"fibre": 0
+},
+{
+"name": "Tea",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 60,
+"pro": 2,
+"carbs": 8,
+"fat": 2,
+"fibre": 0
+},
+{
+"name": "Lemon Tea",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 50,
+"pro": 0,
+"carbs": 12,
+"fat": 0,
+"fibre": 0
+},
+{
+"name": "Green Tea",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 2,
+"pro": 0,
+"carbs": 0,
+"fat": 0,
+"fibre": 0
+},
+{
+"name": "Cappuccino",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 90,
+"pro": 4,
+"carbs": 9,
+"fat": 4,
+"fibre": 0
+},
+{
+"name": "Caf\u00e9 Mocha",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 180,
+"pro": 5,
+"carbs": 25,
+"fat": 7,
+"fibre": 1
+},
+{
+"name": "Caf\u00e9 Latte",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 130,
+"pro": 6,
+"carbs": 12,
+"fat": 6,
+"fibre": 0
+},
+{
+"name": "Caf\u00e9 Espresso",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 5,
+"pro": 0,
+"carbs": 1,
+"fat": 0,
+"fibre": 0
+},
+{
+"name": "Hot Chocolate",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 200,
+"pro": 6,
+"carbs": 30,
+"fat": 7,
+"fibre": 2
+},
+{
+"name": "Lemon Ice Tea",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 100,
+"pro": 0,
+"carbs": 25,
+"fat": 0,
+"fibre": 0
+},
+{
+"name": "Cold Orange",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 120,
+"pro": 1,
+"carbs": 28,
+"fat": 0,
+"fibre": 0
+},
+{
+"name": "Lemonade",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 100,
+"pro": 0,
+"carbs": 25,
+"fat": 0,
+"fibre": 0
+},
+{
+"name": "Cold Coffee",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 220,
+"pro": 6,
+"carbs": 30,
+"fat": 8,
+"fibre": 1
+},
+{
+"name": "Cold Chocolate",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 250,
+"pro": 7,
+"carbs": 35,
+"fat": 10,
+"fibre": 2
+},
+{
+"name": "Cold Mocha",
+"source": "Mini Mingos",
+"section": "Beverages",
+"cal": 250,
+"pro": 7,
+"carbs": 35,
+"fat": 10,
+"fibre": 2
+},
+{
+"name": "Masala Maggi",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 300,
+"pro": 7,
+"carbs": 45,
+"fat": 10,
+"fibre": 3
+},
+{
+"name": "Maggi (Extra Masala / Peri Peri / Corn)",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 330,
+"pro": 8,
+"carbs": 48,
+"fat": 11,
+"fibre": 3
+},
+{
+"name": "Cheese Maggi",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 400,
+"pro": 12,
+"carbs": 48,
+"fat": 17,
+"fibre": 3
+},
+{
+"name": "Egg Bhurgi Maggi",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 380,
+"pro": 15,
+"carbs": 45,
+"fat": 14,
+"fibre": 3
+},
+{
+"name": "Veg Momo",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 250,
+"pro": 7,
+"carbs": 35,
+"fat": 9,
+"fibre": 3
+},
+{
+"name": "Chicken Momo",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 280,
+"pro": 16,
+"carbs": 32,
+"fat": 9,
+"fibre": 1
+},
+{
+"name": "Veg Momo Chat",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 330,
+"pro": 8,
+"carbs": 45,
+"fat": 13,
+"fibre": 4
+},
+{
+"name": "Chicken Momo Chat",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 360,
+"pro": 17,
+"carbs": 42,
+"fat": 13,
+"fibre": 2
+},
+{
+"name": "Veg Manchurian",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 350,
+"pro": 7,
+"carbs": 45,
+"fat": 16,
+"fibre": 4
+},
+{
+"name": "Chicken Manchurian",
+"source": "Mini Mingos",
+"section": "Maggi, Momos and Manchurian",
+"cal": 420,
+"pro": 22,
+"carbs": 35,
+"fat": 20,
+"fibre": 2
+},
+{
+"name": "Potato Pop",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 300,
+"pro": 4,
+"carbs": 35,
+"fat": 16,
+"fibre": 3
+},
+{
+"name": "French Fries",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 350,
+"pro": 4,
+"carbs": 45,
+"fat": 17,
+"fibre": 4
+},
+{
+"name": "Peri Peri Fries",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 370,
+"pro": 5,
+"carbs": 46,
+"fat": 18,
+"fibre": 4
+},
+{
+"name": "Jungli Fungli",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 400,
+"pro": 8,
+"carbs": 45,
+"fat": 20,
+"fibre": 4
+},
+{
+"name": "Non Veg Jungli Fungli",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 450,
+"pro": 18,
+"carbs": 42,
+"fat": 22,
+"fibre": 3
+},
+{
+"name": "Chicken Popcorn",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 400,
+"pro": 22,
+"carbs": 30,
+"fat": 22,
+"fibre": 1
+},
+{
+"name": "Vada Pav",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 300,
+"pro": 7,
+"carbs": 40,
+"fat": 13,
+"fibre": 4
+},
+{
+"name": "Cheese Vada Pav",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 360,
+"pro": 10,
+"carbs": 40,
+"fat": 18,
+"fibre": 3
+},
+{
+"name": "Bun Samosa",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 350,
+"pro": 7,
+"carbs": 45,
+"fat": 16,
+"fibre": 4
+},
+{
+"name": "Cheese Samosa",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 400,
+"pro": 10,
+"carbs": 42,
+"fat": 22,
+"fibre": 3
+},
+{
+"name": "Peri Peri Bun Samosa",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 370,
+"pro": 7,
+"carbs": 46,
+"fat": 17,
+"fibre": 4
+},
+{
+"name": "Veg Burger",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 350,
+"pro": 9,
+"carbs": 45,
+"fat": 15,
+"fibre": 4
+},
+{
+"name": "Chicken Burger",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 420,
+"pro": 22,
+"carbs": 42,
+"fat": 17,
+"fibre": 2
+},
+{
+"name": "Barbeque Chicken Burger",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 450,
+"pro": 24,
+"carbs": 45,
+"fat": 18,
+"fibre": 2
+},
+{
+"name": "Crispy Chicken Burger",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 500,
+"pro": 23,
+"carbs": 48,
+"fat": 23,
+"fibre": 2
+},
+{
+"name": "Peri Peri Chicken Burger",
+"source": "Mini Mingos",
+"section": "Quick Bites and Burgers",
+"cal": 460,
+"pro": 24,
+"carbs": 44,
+"fat": 19,
+"fibre": 2
+},
+{
+"name": "Veg Chowmein",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 350,
+"pro": 8,
+"carbs": 55,
+"fat": 11,
+"fibre": 4
+},
+{
+"name": "Egg Chowmein",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 400,
+"pro": 13,
+"carbs": 55,
+"fat": 13,
+"fibre": 3
+},
+{
+"name": "Chicken Chowmein",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 450,
+"pro": 20,
+"carbs": 55,
+"fat": 15,
+"fibre": 3
+},
+{
+"name": "Veg Chinese Combo",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 600,
+"pro": 15,
+"carbs": 85,
+"fat": 20,
+"fibre": 7
+},
+{
+"name": "Non Veg Chinese Combo",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 700,
+"pro": 28,
+"carbs": 85,
+"fat": 24,
+"fibre": 5
+},
+{
+"name": "Veg Sandwich",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 280,
+"pro": 8,
+"carbs": 38,
+"fat": 10,
+"fibre": 4
+},
+{
+"name": "Corn Mayo Sandwich",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 350,
+"pro": 8,
+"carbs": 40,
+"fat": 17,
+"fibre": 3
+},
+{
+"name": "Corn Cheese Sandwich",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 400,
+"pro": 12,
+"carbs": 42,
+"fat": 20,
+"fibre": 3
+},
+{
+"name": "Paneer Sandwich",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 420,
+"pro": 18,
+"carbs": 40,
+"fat": 20,
+"fibre": 3
+},
+{
+"name": "Chicken Sandwich",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 400,
+"pro": 24,
+"carbs": 38,
+"fat": 14,
+"fibre": 2
+},
+{
+"name": "Barbeque Sandwich",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 420,
+"pro": 23,
+"carbs": 40,
+"fat": 16,
+"fibre": 2
+},
+{
+"name": "Peri Peri Chicken Sandwich",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 420,
+"pro": 24,
+"carbs": 40,
+"fat": 16,
+"fibre": 2
+},
+{
+"name": "Chicken Cheese Sandwich",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 470,
+"pro": 28,
+"carbs": 40,
+"fat": 20,
+"fibre": 2
+},
+{
+"name": "Paneer Sub",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 450,
+"pro": 20,
+"carbs": 48,
+"fat": 18,
+"fibre": 4
+},
+{
+"name": "Barbeque Sub",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 450,
+"pro": 24,
+"carbs": 48,
+"fat": 16,
+"fibre": 3
+},
+{
+"name": "Peri Peri Chicken Sub",
+"source": "Mini Mingos",
+"section": "Chinese and Sandwiches",
+"cal": 460,
+"pro": 26,
+"carbs": 48,
+"fat": 16,
+"fibre": 3
+},
+{
+"name": "Veg Roll",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 300,
+"pro": 8,
+"carbs": 42,
+"fat": 11,
+"fibre": 4
+},
+{
+"name": "Paneer Roll",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 400,
+"pro": 17,
+"carbs": 42,
+"fat": 17,
+"fibre": 3
+},
+{
+"name": "Chicken Roll",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 420,
+"pro": 23,
+"carbs": 42,
+"fat": 15,
+"fibre": 2
+},
+{
+"name": "Egg Chicken Roll",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 480,
+"pro": 28,
+"carbs": 42,
+"fat": 19,
+"fibre": 2
+},
+{
+"name": "Cheese Chicken Roll",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 520,
+"pro": 30,
+"carbs": 42,
+"fat": 23,
+"fibre": 2
+},
+{
+"name": "Barbeque Chicken Roll",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 440,
+"pro": 24,
+"carbs": 44,
+"fat": 16,
+"fibre": 2
+},
+{
+"name": "Peri Peri Chicken Roll",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 440,
+"pro": 24,
+"carbs": 44,
+"fat": 16,
+"fibre": 2
+},
+{
+"name": "Crispy Chicken Roll",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 500,
+"pro": 23,
+"carbs": 45,
+"fat": 23,
+"fibre": 2
+},
+{
+"name": "Chicken Biryani",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 650,
+"pro": 30,
+"carbs": 80,
+"fat": 22,
+"fibre": 3
+},
+{
+"name": "Chicken Kabab Biryani",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 700,
+"pro": 35,
+"carbs": 78,
+"fat": 26,
+"fibre": 3
+},
+{
+"name": "Chicken Curry Combo",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 600,
+"pro": 30,
+"carbs": 65,
+"fat": 22,
+"fibre": 4
+},
+{
+"name": "Butter Pav Bhaji",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 450,
+"pro": 10,
+"carbs": 60,
+"fat": 19,
+"fibre": 8
+},
+{
+"name": "Cheese Pav Bhaji",
+"source": "Mini Mingos",
+"section": "Rolls and Combos",
+"cal": 520,
+"pro": 15,
+"carbs": 60,
+"fat": 24,
+"fibre": 8
+},
+{
+"name": "Creamy Alfredo Pasta (Veg)",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 500,
+"pro": 15,
+"carbs": 65,
+"fat": 20,
+"fibre": 4
+},
+{
+"name": "Creamy Alfredo Pasta (Non Veg)",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 600,
+"pro": 28,
+"carbs": 65,
+"fat": 23,
+"fibre": 3
+},
+{
+"name": "Peri Peri Mac n Cheese (Veg)",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 550,
+"pro": 18,
+"carbs": 60,
+"fat": 26,
+"fibre": 3
+},
+{
+"name": "Peri Peri Mac n Cheese (Non Veg)",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 650,
+"pro": 30,
+"carbs": 60,
+"fat": 30,
+"fibre": 3
+},
+{
+"name": "Veg Puff",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 250,
+"pro": 5,
+"carbs": 28,
+"fat": 14,
+"fibre": 2
+},
+{
+"name": "Paneer Puff",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 300,
+"pro": 9,
+"carbs": 28,
+"fat": 17,
+"fibre": 2
+},
+{
+"name": "Egg Puff",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 280,
+"pro": 8,
+"carbs": 28,
+"fat": 15,
+"fibre": 1
+},
+{
+"name": "Chicken Puff",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 290,
+"pro": 12,
+"carbs": 28,
+"fat": 15,
+"fibre": 1
+},
+{
+"name": "Chocolate Pastry",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 350,
+"pro": 5,
+"carbs": 45,
+"fat": 18,
+"fibre": 2
+},
+{
+"name": "Black Forest Pastry",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 330,
+"pro": 4,
+"carbs": 45,
+"fat": 16,
+"fibre": 1
+},
+{
+"name": "Butterscotch Pastry",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 350,
+"pro": 4,
+"carbs": 48,
+"fat": 17,
+"fibre": 1
+},
+{
+"name": "Brownie",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 300,
+"pro": 4,
+"carbs": 40,
+"fat": 15,
+"fibre": 2
+},
+{
+"name": "Honey Cake",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 220,
+"pro": 3,
+"carbs": 35,
+"fat": 8,
+"fibre": 1
+},
+{
+"name": "Doughnut",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 280,
+"pro": 5,
+"carbs": 35,
+"fat": 14,
+"fibre": 1
+},
+{
+"name": "Chocolava",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 350,
+"pro": 5,
+"carbs": 45,
+"fat": 18,
+"fibre": 2
+},
+{
+"name": "Tea Cake",
+"source": "Mini Mingos",
+"section": "Pasta, Snacks and Desserts",
+"cal": 160,
+"pro": 3,
+"carbs": 25,
+"fat": 6,
+"fibre": 1
+},
+{
+"name": "Sprouts",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 100,
+"pro": 7,
+"carbs": 15,
+"fat": 1,
+"fibre": 5
+},
+{
+"name": "Idly (2 pieces)",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 150,
+"pro": 4,
+"carbs": 30,
+"fat": 1,
+"fibre": 2
+},
+{
+"name": "Vada (2 pieces)",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 280,
+"pro": 8,
+"carbs": 30,
+"fat": 15,
+"fibre": 3
+},
+{
+"name": "Chutney",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 60,
+"pro": 2,
+"carbs": 5,
+"fat": 4,
+"fibre": 1
+},
+{
+"name": "Sambar",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 80,
+"pro": 4,
+"carbs": 12,
+"fat": 2,
+"fibre": 3
+},
+{
+"name": "Coffee",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 60,
+"pro": 2,
+"carbs": 8,
+"fat": 2,
+"fibre": 0
+},
+{
+"name": "Milk (1 glass)",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 120,
+"pro": 6,
+"carbs": 9,
+"fat": 6,
+"fibre": 0
+},
+{
+"name": "Banana",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 105,
+"pro": 1,
+"carbs": 27,
+"fat": 0,
+"fibre": 3
+},
+{
+"name": "Cornflakes",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 120,
+"pro": 2,
+"carbs": 27,
+"fat": 0,
+"fibre": 1
+},
+{
+"name": "Methi Paratha",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 250,
+"pro": 6,
+"carbs": 35,
+"fat": 10,
+"fibre": 4
+},
+{
+"name": "Aloo Pallya",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 150,
+"pro": 3,
+"carbs": 25,
+"fat": 5,
+"fibre": 3
+},
+{
+"name": "Red Chutney",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 50,
+"pro": 1,
+"carbs": 5,
+"fat": 3,
+"fibre": 1
+},
+{
+"name": "Bread Jam (2 slices)",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 180,
+"pro": 5,
+"carbs": 35,
+"fat": 3,
+"fibre": 1
+},
+{
+"name": "Poha",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 200,
+"pro": 4,
+"carbs": 35,
+"fat": 6,
+"fibre": 3
+},
+{
+"name": "Masala Vada (2 pieces)",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 250,
+"pro": 8,
+"carbs": 28,
+"fat": 12,
+"fibre": 5
+},
+{
+"name": "Fresh Cut Fruits",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 80,
+"pro": 1,
+"carbs": 20,
+"fat": 0,
+"fibre": 3
+},
+{
+"name": "Set Dosa (2 pieces)",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 220,
+"pro": 5,
+"carbs": 40,
+"fat": 5,
+"fibre": 2
+},
+{
+"name": "Coconut Chutney",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 80,
+"pro": 2,
+"carbs": 4,
+"fat": 7,
+"fibre": 2
+},
+{
+"name": "Veg Saagu",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 120,
+"pro": 3,
+"carbs": 15,
+"fat": 5,
+"fibre": 4
+},
+{
+"name": "Bread Butter (2 slices)",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 220,
+"pro": 6,
+"carbs": 28,
+"fat": 10,
+"fibre": 2
+},
+{
+"name": "Rava Idly (2 pieces)",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 200,
+"pro": 5,
+"carbs": 32,
+"fat": 6,
+"fibre": 2
+},
+{
+"name": "Poori (2 pieces)",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 300,
+"pro": 6,
+"carbs": 40,
+"fat": 14,
+"fibre": 2
+},
+{
+"name": "Onion Slice",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 15,
+"pro": 0,
+"carbs": 3,
+"fat": 0,
+"fibre": 1
+},
+{
+"name": "Chana Masala",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 180,
+"pro": 9,
+"carbs": 25,
+"fat": 5,
+"fibre": 7
+},
+{
+"name": "Masala Dosa",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 350,
+"pro": 7,
+"carbs": 50,
+"fat": 13,
+"fibre": 4
+},
+{
+"name": "Aloo Palya",
+"source": "Hostel Mess",
+"section": "Breakfast",
+"cal": 150,
+"pro": 3,
+"carbs": 25,
+"fat": 5,
+"fibre": 3
+},
+{
+"name": "Green Salad",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 40,
+"pro": 2,
+"carbs": 8,
+"fat": 0,
+"fibre": 3
+},
+{
+"name": "Chapati (1 piece)",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 110,
+"pro": 3,
+"carbs": 20,
+"fat": 2,
+"fibre": 3
+},
+{
+"name": "Aloo Gobi Dry Subzi",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 150,
+"pro": 4,
+"carbs": 18,
+"fat": 7,
+"fibre": 4
+},
+{
+"name": "Channa Dal Tadka",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 180,
+"pro": 9,
+"carbs": 25,
+"fat": 5,
+"fibre": 7
+},
+{
+"name": "Plain Rasam",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 50,
+"pro": 2,
+"carbs": 8,
+"fat": 1,
+"fibre": 1
+},
+{
+"name": "Papad (1 piece)",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 50,
+"pro": 2,
+"carbs": 7,
+"fat": 2,
+"fibre": 1
+},
+{
+"name": "Buttermilk (1 glass)",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 50,
+"pro": 3,
+"carbs": 5,
+"fat": 2,
+"fibre": 0
+},
+{
+"name": "White Rice (1 serving)",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 200,
+"pro": 4,
+"carbs": 45,
+"fat": 0,
+"fibre": 1
+},
+{
+"name": "Kadai Vegetable",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 180,
+"pro": 5,
+"carbs": 18,
+"fat": 9,
+"fibre": 5
+},
+{
+"name": "Kadi Pakodi",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 200,
+"pro": 6,
+"carbs": 20,
+"fat": 10,
+"fibre": 2
+},
+{
+"name": "Lemon Rasam",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 50,
+"pro": 2,
+"carbs": 8,
+"fat": 1,
+"fibre": 1
+},
+{
+"name": "Curd Rice",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 220,
+"pro": 6,
+"carbs": 38,
+"fat": 5,
+"fibre": 1
+},
+{
+"name": "Baigan Ka Bharta",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 130,
+"pro": 3,
+"carbs": 12,
+"fat": 8,
+"fibre": 5
+},
+{
+"name": "Pumpkin Sambar",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 100,
+"pro": 4,
+"carbs": 15,
+"fat": 2,
+"fibre": 3
+},
+{
+"name": "Kosambari",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 100,
+"pro": 5,
+"carbs": 12,
+"fat": 4,
+"fibre": 4
+},
+{
+"name": "Black Channa Palya",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 180,
+"pro": 9,
+"carbs": 25,
+"fat": 5,
+"fibre": 8
+},
+{
+"name": "Drumstick Sambar",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 100,
+"pro": 4,
+"carbs": 15,
+"fat": 2,
+"fibre": 3
+},
+{
+"name": "Karamani Subzi",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 170,
+"pro": 8,
+"carbs": 22,
+"fat": 5,
+"fibre": 7
+},
+{
+"name": "Tomato Rasam",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 45,
+"pro": 2,
+"carbs": 7,
+"fat": 1,
+"fibre": 1
+},
+{
+"name": "Masala Papad",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 80,
+"pro": 3,
+"carbs": 10,
+"fat": 3,
+"fibre": 2
+},
+{
+"name": "Green Moong Subzi",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 170,
+"pro": 10,
+"carbs": 25,
+"fat": 3,
+"fibre": 7
+},
+{
+"name": "Dal Tadka",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 180,
+"pro": 9,
+"carbs": 22,
+"fat": 6,
+"fibre": 5
+},
+{
+"name": "Methi Paratha",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 250,
+"pro": 6,
+"carbs": 35,
+"fat": 10,
+"fibre": 4
+},
+{
+"name": "Paneer Butter Masala",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 300,
+"pro": 12,
+"carbs": 12,
+"fat": 23,
+"fibre": 2
+},
+{
+"name": "Vegetable Biryani",
+"source": "Hostel Mess",
+"section": "Lunch",
+"cal": 350,
+"pro": 7,
+"carbs": 55,
+"fat": 12,
+"fibre": 4
+},
+{
+"name": "Fry Bhindi Dry",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 140,
+"pro": 3,
+"carbs": 14,
+"fat": 8,
+"fibre": 5
+},
+{
+"name": "Dal Tadka",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 180,
+"pro": 9,
+"carbs": 22,
+"fat": 6,
+"fibre": 5
+},
+{
+"name": "Puliyogare",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 300,
+"pro": 6,
+"carbs": 50,
+"fat": 9,
+"fibre": 3
+},
+{
+"name": "Paneer Bhurji",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 250,
+"pro": 15,
+"carbs": 8,
+"fat": 18,
+"fibre": 2
+},
+{
+"name": "Veg Soyabean Pulao",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 350,
+"pro": 12,
+"carbs": 55,
+"fat": 9,
+"fibre": 6
+},
+{
+"name": "Steamed Rice",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 200,
+"pro": 4,
+"carbs": 45,
+"fat": 0,
+"fibre": 1
+},
+{
+"name": "Aloo Gobi Dry",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 150,
+"pro": 4,
+"carbs": 18,
+"fat": 7,
+"fibre": 4
+},
+{
+"name": "Masoor Dal Tadka",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 180,
+"pro": 11,
+"carbs": 22,
+"fat": 5,
+"fibre": 6
+},
+{
+"name": "Lemon Rice",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 280,
+"pro": 5,
+"carbs": 45,
+"fat": 9,
+"fibre": 2
+},
+{
+"name": "Gobi Manchurian",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 300,
+"pro": 6,
+"carbs": 35,
+"fat": 15,
+"fibre": 4
+},
+{
+"name": "Corn Pulao",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 320,
+"pro": 6,
+"carbs": 50,
+"fat": 10,
+"fibre": 3
+},
+{
+"name": "Palak Paneer",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 280,
+"pro": 14,
+"carbs": 10,
+"fat": 20,
+"fibre": 4
+},
+{
+"name": "Paneer Biryani",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 450,
+"pro": 14,
+"carbs": 60,
+"fat": 17,
+"fibre": 4
+},
+{
+"name": "Bisibele Bath",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 300,
+"pro": 9,
+"carbs": 45,
+"fat": 9,
+"fibre": 5
+},
+{
+"name": "Chana Dal Tadka",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 180,
+"pro": 9,
+"carbs": 25,
+"fat": 5,
+"fibre": 7
+},
+{
+"name": "Beans Poriyal",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 120,
+"pro": 4,
+"carbs": 12,
+"fat": 6,
+"fibre": 5
+},
+{
+"name": "Rice Bath",
+"source": "Hostel Mess",
+"section": "Dinner",
+"cal": 300,
+"pro": 6,
+"carbs": 48,
+"fat": 9,
+"fibre": 3
+},
+{
+"name": "Chocolate Donut",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 300,
+"pro": 4,
+"carbs": 40,
+"fat": 14,
+"fibre": 1
+},
+{
+"name": "French Fries",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 350,
+"pro": 4,
+"carbs": 45,
+"fat": 17,
+"fibre": 4
+},
+{
+"name": "Veg Sub",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 300,
+"pro": 10,
+"carbs": 45,
+"fat": 8,
+"fibre": 4
+},
+{
+"name": "Lemon Tea",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 50,
+"pro": 0,
+"carbs": 12,
+"fat": 0,
+"fibre": 0
+},
+{
+"name": "Veg Noodles",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 300,
+"pro": 7,
+"carbs": 45,
+"fat": 10,
+"fibre": 3
+},
+{
+"name": "Kachori",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 250,
+"pro": 5,
+"carbs": 30,
+"fat": 13,
+"fibre": 3
+},
+{
+"name": "Badam Milk",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 180,
+"pro": 6,
+"carbs": 22,
+"fat": 8,
+"fibre": 1
+},
+{
+"name": "Pav Bhaji",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 350,
+"pro": 8,
+"carbs": 50,
+"fat": 13,
+"fibre": 7
+},
+{
+"name": "Ice Cream",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 180,
+"pro": 3,
+"carbs": 22,
+"fat": 9,
+"fibre": 0
+},
+{
+"name": "Rasmalai",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 220,
+"pro": 6,
+"carbs": 28,
+"fat": 9,
+"fibre": 0
+},
+{
+"name": "Milk Shake",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 250,
+"pro": 7,
+"carbs": 35,
+"fat": 9,
+"fibre": 1
+},
+{
+"name": "Cut Fruits",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 80,
+"pro": 1,
+"carbs": 20,
+"fat": 0,
+"fibre": 3
+},
+{
+"name": "Can Juice",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 120,
+"pro": 0,
+"carbs": 30,
+"fat": 0,
+"fibre": 0
+},
+{
+"name": "Biscuits",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 140,
+"pro": 2,
+"carbs": 22,
+"fat": 5,
+"fibre": 1
+},
+{
+"name": "Bourbon Biscuits",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 150,
+"pro": 2,
+"carbs": 22,
+"fat": 6,
+"fibre": 1
+},
+{
+"name": "Casata",
+"source": "Hostel Mess",
+"section": "Snacks and Desserts",
+"cal": 220,
+"pro": 4,
+"carbs": 28,
+"fat": 11,
+"fibre": 0
+}
+]

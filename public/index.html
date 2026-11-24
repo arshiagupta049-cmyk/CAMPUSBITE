@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CampusBite</title><link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script></head>
+<body>
+<!-- LOGIN SCREEN -->
+<div id="loginBox" class="card auth hidden">
+  <h1>🍽️ CampusBite</h1><p class="mut">Food & nutrition tracker for RVCE students</p>
+  <input id="name" placeholder="Name (only for register)"><input id="email" placeholder="Email">
+  <input id="pw" type="password" placeholder="Password"><p id="err" class="err"></p>
+  <button onclick="auth('login')">Log in</button> <button class="ghost" onclick="auth('register')">Register</button>
+</div>
+
+<!-- MAIN APP -->
+<div id="appBox" class="hidden">
+  <aside><div class="logo">C</div>
+    <a id="t-today" onclick="show('today')">🍴</a><a id="t-history" onclick="show('history')">🕘</a>
+    <a id="t-expenses" onclick="show('expenses')">💰</a><a id="t-health" onclick="show('health')">🌿</a><a id="t-ai" onclick="show('ai')">✨</a>
+    <a onclick="logout()" class="bottom">⎋</a></aside>
+  <main>
+    <section id="today"><p class="mut" id="dateText"></p><h1 id="hello"></h1>
+      <input type="date" id="date" onchange="loadToday()">
+      <div class="grid" id="counters"></div><div id="meals"></div>
+      <div class="card"><h3>Macros today (estimates, not personal targets)</h3><div id="macros"></div></div></section>
+    <section id="history" class="hidden"><h1>Calorie intake</h1>
+      <button class="pill" onclick="loadHistory(7)">7d</button><button class="pill" onclick="loadHistory(30)">30d</button>
+      <div class="card"><canvas id="calChart"></canvas></div></section>
+    <section id="expenses" class="hidden"><h1>Expenses</h1><p class="mut">Mini Mingos & outside meals. Hostel mess is not charged.</p>
+      <div class="grid" id="spendStats"></div>
+      <div class="card"><h3>Add an expense</h3><p class="mut">Track transport, snacks bought elsewhere, stationery, or any other spending.</p>
+        <label for="expenseDesc">What was it?</label><input id="expenseDesc" placeholder="e.g. Bus fare, outside lunch">
+        <div class="grid"><div><label for="expenseAmount">Amount (₹)</label><input id="expenseAmount" type="number" min="0.01" step="0.01" placeholder="e.g. 45"></div>
+        <div><label for="expenseDate">Date</label><input id="expenseDate" type="date"></div>
+        <div><label for="expenseCategory">Category</label><select id="expenseCategory"><option>Food</option><option>Transport</option><option>College</option><option>Personal</option><option>Other</option></select></div></div>
+        <button onclick="addExpense()">Save expense</button><span id="expenseMsg" class="mut"></span>
+      </div>
+      <div class="card"><canvas id="spendChart"></canvas></div>
+      <div class="card"><h3>Expense history</h3><p class="mut">Only purchases with a price entered are included. Hostel Mess is treated as free by default.</p><div id="expList"></div></div></section>
+    <section id="health" class="hidden"><h1>Nutrition & wellbeing</h1>
+      <p class="mut">A gentle food-balance log, not a medical diagnosis or a weight-loss plan.</p>
+      <div class="card"><h3>Your optional profile</h3>
+        <div class="grid">
+          <div><label for="heightCm">Height (cm)</label><input id="heightCm" type="number" min="50" max="250" placeholder="e.g. 165"></div>
+          <div><label for="weightKg">Weight (kg)</label><input id="weightKg" type="number" min="10" max="300" step="0.1" placeholder="e.g. 60"></div>
+        </div>
+        <button onclick="saveHealthProfile()">Calculate BMI</button>
+        <div id="bmiResult" class="mut"></div>
+        <p class="mut">BMI alone cannot tell you how much to eat. For people under 18, BMI needs age- and sex-specific interpretation. Don't use this number to restrict meals.</p>
+      </div>
+      <div class="grid" id="healthStats"></div>
+      <div class="card"><h3>Food-balance log</h3><p class="mut">A simple product-level guide based on the listed ingredients/nutrients and food type. Recipes and portions vary; no food is labelled morally “bad”.</p><div id="healthLog"></div></div>
+      <div class="card"><h3>Gentle reminders</h3><div id="safeAlerts"></div></div>
+      <div class="card"><h3>General guidance from ICMR–NIN</h3>
+        <p>Try to include a variety of food groups across the day: cereals/millets, pulses or beans, vegetables, leafy greens, fruit, nuts/seeds, and dairy or suitable alternatives.</p>
+        <p>Energy needs vary by age, body size, activity, and health. The app's calorie values are estimates, not a prescribed limit. If you need a personal intake target, ask a qualified dietitian or clinician.</p>
+        <p><a href="https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI_2024.pdf" target="_blank" rel="noopener">Official ICMR–NIN Dietary Guidelines for Indians (2024)</a></p>
+      </div>
+    </section>
+    <section id="ai" class="hidden"><h1>✨ CampusBite AI</h1><p class="mut">Answers use only your own records.</p>
+      <div class="card"><div id="chat"></div>
+        <div id="chips"></div><input id="q" placeholder="Ask about your meals, nutrition or spending..." onkeydown="if(event.key=='Enter')ask()">
+        <button onclick="ask()">Send</button></div></section>
+  </main>
+</div>
+
+<!-- LOG MEAL POPUP -->
+<dialog id="dlg"><h3 id="dlgTitle"></h3>
+  <label>Where did you eat?</label><select id="src" onchange="fillFoods()"><option>Hostel Mess<option>Mini Mingos</select>
+  <label>Food</label><select id="food"></select>
+  <label>Quantity</label><input id="qty" type="number" value="1" min="0.5" step="0.5">
+  <div id="priceBox"><label>Price paid (₹)</label><input id="price" type="number" value="0" min="0" step="0.5"></div>
+  <button onclick="saveLog()">Add</button> <button class="ghost" onclick="dlg.close()">Cancel</button></dialog>
+<script src="app.js"></script></body></html>
